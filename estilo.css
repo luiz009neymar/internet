@@ -1,0 +1,15 @@
+.cabecalho{ background-color:gray;
+    font-size:24px;
+    width:600px;
+    padding:10px;
+}
+.corpo{
+    width:600px;
+    padding:10px;
+    background-color:red;
+}
+
+.rodape{
+    width:600px;
+    padding:10px;
+}
